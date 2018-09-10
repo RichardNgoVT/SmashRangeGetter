@@ -1,0 +1,9 @@
+C:/Users/richa/OneDrive/Desktop/smashtester/build/CMakeFiles/compare.dir
+C:/Users/richa/OneDrive/Desktop/smashtester/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/richa/OneDrive/Desktop/smashtester/build/CMakeFiles/student-tests.dir
+C:/Users/richa/OneDrive/Desktop/smashtester/build/CMakeFiles/pathfinder.dir
+C:/Users/richa/OneDrive/Desktop/smashtester/build/CMakeFiles/submission.dir
+C:/Users/richa/OneDrive/Desktop/smashtester/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/richa/OneDrive/Desktop/smashtester/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/richa/OneDrive/Desktop/smashtester/build/lib/CMakeFiles/image.dir
+C:/Users/richa/OneDrive/Desktop/smashtester/build/lib/CMakeFiles/RUN_TESTS.dir

@@ -1,0 +1,17 @@
+Contains reflector: falco_special_downb-0
+Contains reflector: falco_special_downbair-0
+Needs more down: falco_stance_ledgegrab-0
+Needs more down: ike_aerial_dair-15
+Needs more up: ike_aerial_fair-11
+Needs more up: ike_normal_uptilt-20
+Needs more up: ike_smash_sidesmash-32
+Needs more up: ike_smash_upsmash-26
+Needs more up: ike_special_neutralb-10
+Needs more up: ike_special_neutralbair-10
+Needs to be renamed (rise): ike_special_upbairrise-0
+Needs to be renamed (rise): ike_special_upbairrise-1
+Needs to be renamed (fall): ike_special_upbfall-1
+Needs to be renamed (land): ike_special_upbland-1
+Needs to be renamed (rise): ike_special_upbrise-1
+Needs more down: ike_stance_ledgegrab-0
+Needs more down: purin_stance_ledgegrab-0
